@@ -1,6 +1,9 @@
 #asfafasfdfdsfsafasfsafsadfsfasfasdf
-Testtestestestsetsetsetestsetse
-tring str;
+#Testtestestestsetsetsetestsetse
+#asfafasfdfdsfsafasfsafsadfsfasfasdf
+#Testtestestestsetsetsetestseasfafasfdfdsfsafasfsafsadfsfasfasdf
+#Testtestestestsetsetsetestsetse
+String str;
 println "Write the blooming number: ";
 str = System.console().readLine();
 int i = Integer.parseInt(str);
